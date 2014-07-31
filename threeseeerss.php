@@ -34,9 +34,9 @@
                 <ul class="nav navbar-nav">
                     <li><a href="#about">About</a>
                     </li>
-                    <li><a href="#services">Services</a>
+                    <li><a href="form.php">New Post</a>
                     </li>
-                    <li><a href="#contact">Contact</a>
+                    <li><a href="#contact">???</a>
                     </li>
                 </ul>
             </div>
