@@ -32,7 +32,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="threeseeerss.php">About</a>
+                    <li><a href="bios.php">People</a>
                     </li>
                     <li><a href="form.php">New Post</a>
                     </li>
