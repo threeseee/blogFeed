@@ -27,12 +27,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Threeseee</a>
+                <a class="navbar-brand" href="threeseeerss.php">Threeseee</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#about">About</a>
+                    <li><a href="threeseeerss.php">About</a>
                     </li>
                     <li><a href="form.php">New Post</a>
                     </li>
@@ -99,7 +99,7 @@
                 <?php
         mysql_connect("sql.mit.edu", "bjohns", "doggies") or die(mysql_error()); 
         mysql_select_db("bjohns+threeseee") or die(mysql_error()); 
-        $data = mysql_query("SELECT * FROM blog_posts") or die(mysql_error());
+        $data = mysql_query("SELECT * FROM blog_posts ORDER BY `ID` DESC") or die(mysql_error());
         while($info = mysql_fetch_array( $data )) 
             {
                 Print "<h3><a href='#'>".$info['title'] . "</a>";
@@ -108,7 +108,7 @@
                 Print "</p>";
                 Print "<hr>";
                 Print "<p>";
-                Print    "<span class='glyphicon glyphicon-time'></span> Posted on August 28, 2013 at 10:00 PM</p>";
+                Print    "<span class='glyphicon glyphicon-time'></span> Posted on  ".$info['timestamp'] . "</p>";
                 Print "<hr>";
                 Print "<img src='http://placehold.it/900x300' class='img-responsive'>";
                 Print "<hr>";
