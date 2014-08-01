@@ -84,7 +84,6 @@
             
             <br>
             <hr>
-            <hr>
             <?php
         }
         ?>
@@ -106,13 +105,10 @@
                 Print "</h3>";
                 Print "<p class='lead'>by <a href='#'>".$info['author'] . "</a>";
                 Print "</p>";
-                Print "<hr>";
                 Print "<p>";
                 Print    "<span class='glyphicon glyphicon-time'></span> Posted on  ".$info['timestamp'] . "</p>";
+                Print "<p> ".$info['content'] . "</p>";
                 Print "<hr>";
-                Print "<img src='http://placehold.it/900x300' class='img-responsive'>";
-                Print "<hr>";
-                Print "<p> ".$info['content'] . "This is a short sentence.</p>";
             } 
                 ?>
                 
