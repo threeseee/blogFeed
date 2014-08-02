@@ -125,7 +125,7 @@
                 <h3>Fran
                     <small>Lights, camera... actually just lights</small>
                 </h3>
-                <p>Spends time working at VECNA, where ueses the robot that throws coffee mugs to fight off UPOP recruiters probably. Also hangs with Nico lots. (sexy time shhh)</p>
+                <p>Spends time working at VECNA, where she uses the robot that throws coffee mugs to fight off UPOP recruiters probably. Also hangs with Nico lots. (sexy time shhh)</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" style="width:200px;height:200px" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/265333_177317332328339_3702053_o.jpg" alt="">
