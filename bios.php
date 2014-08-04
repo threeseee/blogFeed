@@ -142,14 +142,14 @@
                 <p>Taught for MITES and tried to avoid getting in trouble for having Fran over 24/7. Now has gone home because MITES is over? </p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" style="width:200px;height:200px" src="http://marquez.mit.edu/images/MeStata.jpg" alt="">
+                <img class="img-circle img-responsive img-center" style="width:200px;height:200px" src="http://i.imgur.com/cKEdZgy.jpg" alt="">
                 <h3>Elliott
                     <small>Two L's, Two T's</small>
                 </h3>
                 <p>Microsoft. He's bingin'. He's bingin' out in Seattle. Go use bing, he gets paid more. Probably. 16% chance of raise. Ish. </p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" style="width:200px;height:200px" src="http://i.imgur.com/cKEdZgy.jpg" alt="">
+                <img class="img-circle img-responsive img-center" style="width:200px;height:200px" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/199239_1939453251916_4504815_n.jpg?oh=6ab0ffef2fbb1a290741fe2cb9d5087c&oe=54369DAB&__gda__=1413365312_2e9d0ead2d8677c1e77d4cb9a7426c01" alt="">
                 <h3>Steven
                     <small>Our newbie</small>
                 </h3>
